@@ -1,10 +1,13 @@
 body{
 	
-	background-image: url("western/22.jpg");
-   /*background: linear-gradient(to bottom left, #ffffff 0%, #ccffff 100%);*/
+   background: linear-gradient(to bottom left, #ffffff 0%, #ccffff 100%);
 }
 .navbar{
 	background:linear-gradient(to left, #ccff66 0%, #99ffcc 100%);
+}
+h3{
+	font-weight: bold;
+	color: black;
 }
 
 #no{
